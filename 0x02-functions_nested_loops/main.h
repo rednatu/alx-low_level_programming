@@ -1,6 +1,5 @@
 #define IDENTIFIER	MAKEID(D,L,D,0)
 
-#include <wininet.h>
 
 // ------------------------------
 // DEFINITION OF CONDITIONS CODES
