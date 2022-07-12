@@ -3,7 +3,6 @@
 
 
 /**
- *
  * swap_int - swap the valuses of two integers a and b
  *
  * @a: A pointer to an int that will be updated
